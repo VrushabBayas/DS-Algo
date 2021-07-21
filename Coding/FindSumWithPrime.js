@@ -3,8 +3,6 @@
 // There may be several combinations possible.
 // Print only first such pair.
 
-// output 3 5
-
 // Input: n = 74
 // Output: 3 71
 
