@@ -123,3 +123,11 @@ console.log("res: ", res3);
 // let n = arr.length;
 // let ans = firstMissingPositive(arr, n);
 // console.log('ans: ', ans);
+
+let person={
+  fname:"Vrushabh"
+}
+
+console.log(typeof person.toString);
+let res= delete person.fnamee;
+console.log('res: ', res); 
